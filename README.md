@@ -1,8 +1,8 @@
 
 This is a repository of SEGAL, a method to study Monte Carlo simulations in the semi-grand canonical ensemble with machine learning.
 
-Trained models can be found in the Models folder.
+Most updated work can be found in the revision submission folder.
 
-Notebooks with code used for the examples in the paper (https://arxiv.org/abs/2107.05109) can be found in their respective folders.
+Published article: https://www.nature.com/articles/s41524-022-00736-4
 
 
