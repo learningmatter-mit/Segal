@@ -1,4 +1,4 @@
-name: james_mlmat
+name: segal
 channels:
   - pytorch
   - conda-forge
